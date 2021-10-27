@@ -1,5 +1,3 @@
-# Kickstarting with Excel
-
 ## Overview of Project
 
 ### The purpose of this project was to analyze, condense, and visualize a dataset on Excel containing data from thousands of Kickstarter campaigns. The results of this analysis were used to help Louise have the most successuful fundraising campaign possible.
